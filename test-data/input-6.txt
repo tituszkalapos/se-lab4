@@ -1,0 +1,7 @@
+# 10 torpedó a primary-ben, de 0 a secondary-ben!
+GT4500,10,0.0,0,0.0
+# Első lövés (Primary)
+TORPEDO,SINGLE
+# Második lövés (Mivel a secondary üres, visszavált a primary-re)
+TORPEDO,SINGLE
+EXIT

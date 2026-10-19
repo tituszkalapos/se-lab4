@@ -1,0 +1,5 @@
+# 0 torpedó az elsődlegesben, 10 a másodlagosban
+GT4500,0,0.0,10,0.0
+# Mivel a primary üres, a secondary-ből kell lőnie
+TORPEDO,SINGLE
+EXIT

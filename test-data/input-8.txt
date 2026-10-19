@@ -1,0 +1,7 @@
+# 1 torpedó a primary-ben, 0 a secondary-ben
+GT4500,1,0.0,0,0.0
+# Első lövés (Kilövi az egyetlen torpedót a primary-ből)
+TORPEDO,SINGLE
+# Második lövés (Primary lőtt utoljára, secondary üres, és most már a primary is üres)
+TORPEDO,SINGLE
+EXIT
