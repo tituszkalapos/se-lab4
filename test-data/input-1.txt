@@ -1,0 +1,5 @@
+# Hajo inicializalasa (10 primary, 0% hiba, 10 secondary, 0% hiba)
+GT4500,10,0.0,10,0.0
+# Loves a primary tarbol
+TORPEDO,SINGLE
+EXIT
