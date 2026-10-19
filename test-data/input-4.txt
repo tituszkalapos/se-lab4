@@ -1,0 +1,5 @@
+# Teli tárak, hiba nélkül
+GT4500,10,0.0,10,0.0
+# Mindkettőből lőni próbálunk
+TORPEDO,ALL
+EXIT

@@ -1,0 +1,5 @@
+# Hajo inicializalasa (10 primary de 100% hiba, 10 secondary es 0% hiba)
+GT4500,10,1.0,10,0.0
+# Loves kiserlet a primary tarbol (ami hibasodik)
+TORPEDO,SINGLE
+EXIT

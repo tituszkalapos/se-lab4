@@ -1,0 +1,7 @@
+# 10 torpedó mindkét tárban, de a másodlagos 100%-ban hibázik (1.0)
+GT4500,10,0.0,10,1.0
+# Első lövés (Primary) - Sikeres lesz
+TORPEDO,SINGLE
+# Második lövés (Secondary) - Hibázni fog
+TORPEDO,SINGLE
+EXIT
